@@ -1,0 +1,28 @@
+{
+  "name": "AutoText iOS",
+  "identifier": "com.example.AutoTextIOS",
+  "subtitle": "Tự động mở rộng văn bản nhanh chóng",
+  "description": "AutoText iOS cho phép bạn tạo phím tắt và mở rộng tương ứng để tăng tốc quá trình nhập liệu. Bạn có thể tạo các phím tắt tùy chỉnh cho bất kỳ văn bản nào, từ những cụm từ thường dùng đến đoạn văn dài.",
+  "iconURL": "https://raw.githubusercontent.com/levinias3/Auto-text-IOS/master/images/logo.png",
+  "tintColor": "3478F6",
+  "screenshotURLs": [
+    "https://raw.githubusercontent.com/levinias3/Auto-text-IOS/master/images/screenshot1.jpg",
+    "https://raw.githubusercontent.com/levinias3/Auto-text-IOS/master/images/screenshot2.jpg"
+  ],
+  "version": "1.0.0",
+  "versionDate": "2025-05-09",
+  "versionDescription": "Phiên bản đầu tiên của AutoText iOS với các tính năng cơ bản",
+  "downloadURL": "https://github.com/levinias3/Auto-text-IOS/releases/latest/download/AutoTextIOS.ipa",
+  "size": 5000000,
+  "permissions": [
+    {
+      "type": "keyboard",
+      "usageDescription": "AutoText cần quyền bàn phím để hoạt động như một bàn phím tuỳ chỉnh và cung cấp tính năng mở rộng văn bản."
+    }
+  ],
+  "developerName": "AutoText Team",
+  "localizedDescription": {
+    "vi": "AutoText iOS cho phép bạn tạo phím tắt và mở rộng tương ứng để tăng tốc quá trình nhập liệu.",
+    "en": "AutoText iOS allows you to create shortcuts and corresponding expansions to speed up your typing process."
+  }
+} 

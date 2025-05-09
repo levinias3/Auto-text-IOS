@@ -1,0 +1,15 @@
+changelog:
+  categories:
+    - title: Tính năng mới
+      labels:
+        - feature
+        - enhancement
+    - title: Sửa lỗi
+      labels:
+        - bug
+    - title: Cải tiến hiệu suất
+      labels:
+        - performance
+    - title: Khác
+      labels:
+        - '*' 
